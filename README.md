@@ -107,16 +107,6 @@ Student Grade Management System/
 - **Separation of Concerns**: UI logic separate from business logic
 - **User-Friendly**: Clear error messages and confirmation dialogs
 
-## Future Enhancements
-
-Potential improvements:
-- Save/load data to file or database
-- Edit existing student grades
-- Generate grade reports
-- Export data to CSV/Excel
-- Add student ID system
-- Multiple subject tracking
-
 ## Author
 
 Created as part of a C# learning assignment focusing on:
